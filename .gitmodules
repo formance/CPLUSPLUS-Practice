@@ -1,0 +1,6 @@
+[submodule "Input-String-Operation"]
+	path = Input-String-Operation
+	url = https://github.com/formance/Input-String-Operation.git
+[submodule "Gluttonous-Snake"]
+	path = Gluttonous-Snake
+	url = https://github.com/formance/Gluttonous-Snake.git
